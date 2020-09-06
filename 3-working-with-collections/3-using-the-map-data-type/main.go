@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-func main()  {
-	m := map[string]int{"foo":42}
+func main() {
+	m := map[string]int{"foo": 42}
 	fmt.Println(m)
 
 	//Print specific element of map using key type i.e. "foo"

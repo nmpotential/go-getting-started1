@@ -1,3 +1,3 @@
-module Users/nmpotential/go/src/github.com/nmpotential/webservice/9-working-with-structs
+module github.com/nmpotential/webservice/3-working-with-collections/4-working-with-structs
 
 go 1.13

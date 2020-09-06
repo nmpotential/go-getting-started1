@@ -5,9 +5,9 @@ import "fmt"
 func main() {
 	//Define the struct
 	type user struct {
-		ID int
+		ID        int
 		FirstName string
-		LastName string
+		LastName  string
 	}
 	//Initialise object using struct
 	var u user
@@ -16,9 +16,9 @@ func main() {
 	u.LastName = "Ten"
 	fmt.Println(u)
 
-	u2 := user{ ID: 1,
-			FirstName: "Ben",
-			LastName: "Ten",
+	u2 := user{ID: 1,
+		FirstName: "Ben",
+		LastName:  "Ten",
 	}
 	fmt.Println(u2)
 }

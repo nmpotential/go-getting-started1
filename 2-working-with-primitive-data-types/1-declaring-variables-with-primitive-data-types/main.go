@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 	var i int
 	i = 42
 	fmt.Println(i)

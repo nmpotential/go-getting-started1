@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 	/*arr := [3]int{1, 2, 3}
 
 	slice := arr[:]
@@ -11,7 +11,7 @@ func main()  {
 	slice[2] = 27
 
 	fmt.Println(arr, slice)
-*/
+	*/
 
 	slice := []int{1, 2, 3}
 	fmt.Println(slice)

@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 const (
-	first = iota
+	first  = iota
 	second = iota
 )
 const (
@@ -11,6 +11,6 @@ const (
 	fourth
 )
 
-func main()  {
+func main() {
 	fmt.Println(first, second, third, fourth)
 }

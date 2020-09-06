@@ -2,8 +2,7 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 	fmt.Print("Hello from a module, Gophers!")
 
 }
-
